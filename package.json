@@ -1,0 +1,14 @@
+{
+  "name": "sk-blade-title",
+  "version": "1.0.0",
+  "description": "Blade that holds the title of the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sk-blade"
+  ],
+  "author": "Florian Valence <florian.m.valence@gmail.com>",
+  "license": "ISC"
+}

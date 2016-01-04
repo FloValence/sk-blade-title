@@ -1,0 +1,8 @@
+{
+  "title": {
+    "content": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
